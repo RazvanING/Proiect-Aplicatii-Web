@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Razvan\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\.nupkg.metadata",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.nupkg.metadata"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\.signature.p7s",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\.signature.p7s"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\bootstrap.5.2.3.nupkg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.5.2.3.nupkg"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\bootstrap.5.2.3.nupkg.sha512",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.5.2.3.nupkg.sha512"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\bootstrap.nuspec",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.nuspec"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\bootstrap.png",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\bootstrap.png"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Content\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Content\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Proiect Aplicatii Web\\CasaDiscuriSln\\CasaDiscuri\\wwwroot\\lib\\bootstrap\\content\\Scripts\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\content\\Scripts\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CasaDiscuri.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CasaDiscuri.props",
+      "PackagePath": "build\\CasaDiscuri.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CasaDiscuri.props",
+      "PackagePath": "buildMultiTargeting\\CasaDiscuri.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CasaDiscuri.props",
+      "PackagePath": "buildTransitive\\CasaDiscuri.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
